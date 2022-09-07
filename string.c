@@ -46,7 +46,6 @@ int _strcmp(char *s1, char *s2)
  * starts_with - checks if needle starts with haystack
  * @haystack: string to search
  * @needle: the substring to find
- * 
  * Return: address of next char of haystack or NULL
  */
 
